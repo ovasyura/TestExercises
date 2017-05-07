@@ -13,11 +13,11 @@ package my.tests.report.data;
 public enum OperationType {
 
 	/*
-	 * Buy shares
+	 * Buy share
 	 */
 	BUY, 
 	/*
-	 * Sell shares
+	 * Sell share
 	 */
 	SELL,
 	/*
