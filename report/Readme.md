@@ -1,4 +1,4 @@
-First draft of one reporttest task.
+First draft of one report test task.
 You need Java 8 SDK and Maven to build and run the project.
 All output will be generated to standart console.
 To build project use the command:
