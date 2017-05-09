@@ -1,0 +1,24 @@
+[
+  {
+    "class":"Message",
+    "type":"apple",
+    "salePrice":"10"
+  },
+  {
+    "class":"DetailMessage",
+    "type":"orange",
+    "salePrice":"10",
+    "salesCount":"9"
+  },
+  {
+    "class":"Message",
+    "type":"banana",
+    "salePrice":"7"
+  },
+  {
+    "class":"AdjustmentMessage",
+    "type":"apple",
+    "salePrice":"10",
+    "operationType":"ADD"
+  }
+]
